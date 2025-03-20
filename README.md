@@ -65,7 +65,8 @@ Welcome to this **step-by-step tutorial** on building a **multi-step form** in *
 To follow along, clone this repo and install dependencies:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/estheragbaje/Multi-step-Onboarding-Form
+
 cd onboarding-form
 npm install
 ```
