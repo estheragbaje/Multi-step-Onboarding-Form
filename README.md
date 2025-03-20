@@ -2,6 +2,8 @@
 
 Welcome to this **step-by-step tutorial** on building a **multi-step form** in **Next.js** using **React Hook Form, Chakra UI, and Zod** for validation. By the end of this tutorial, you'll have a **fully functional onboarding form** that supports **browser navigation, and a seamless user experience**.
 
+📺 **[Check out the tutorial on YouTube](#)** _(https://www.youtube.com/playlist?list=PLx2Y9Sna27XuKM4RDa0kfn5tqDp75zSOI)_
+
 ## 📌 What You'll Learn
 
 ✅ Setting up **Chakra UI v3** in a Next.js project  
@@ -49,8 +51,6 @@ Welcome to this **step-by-step tutorial** on building a **multi-step form** in *
 - Making the form **refresh-proof & shareable**
 
 ## 🎬 Watch the Full Video Series
-
-📺 **[Check out the tutorial on YouTube](#)** _(https://www.youtube.com/playlist?list=PLx2Y9Sna27XuKM4RDa0kfn5tqDp75zSOI)_
 
 ## 🚀 Technologies Used
 
